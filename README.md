@@ -1,2 +1,2 @@
-# flower-generator
+# Flower Generator
 102
